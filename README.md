@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Syed%20Faizyab%20Hussain&fontSize=42&fontColor=0b1220&animation=twinkling&fontAlignY=36&desc=AI%20Student&descSize=20&descAlignY=58" width="100%" />
 
 <a href="https://github.com/sfaizyab2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=AI+Student+%7C+3rd+Semester;Python+%2B+OOP;Building+a+Student+Career+Recommendation+System;Available+for+part-time+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=AI+Student+%7C+3rd+Semester;Learning+via+project+building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,16 +17,10 @@
 
 ## 👤 Who I Am
 
-```typescript
-const syedFaizyabHussain = {
-  title: "AI Student (3rd Semester)",
-  stack: ["Python", "OOP"],
-  launchedProjects: ["Student-Career-Recommendation-System"],
-  certifications: ["LinkedIn Generative AI Certificate"],
-  status: "Studying AI, learning and building projects",
-  openTo: ["Part-time", "Freelance"],
-};
-```
+- 🎓 AI Student, currently in my 3rd semester
+- 💻 Working with Python
+- 📜 Hold the LinkedIn Generative AI Certificate
+- 🌱 Studying AI and learning by building projects
 
 ---
 
@@ -56,29 +50,6 @@ Lets students get career suggestions based on their skills.
 <p>
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sfaizyab2006&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9&hide_border=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfaizyab2006&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9&hide_border=false" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sfaizyab2006&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc&hide_border=false" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sfaizyab2006&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sfaizyab2006&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=eceff4&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
 
 ---
 

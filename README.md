@@ -15,18 +15,18 @@
 
 ---
 
-## 👤 Who I Am
+## Who I Am
 
-- 🎓 AI Student, currently in my 3rd semester
-- 💻 Working with Python
-- 📜 Hold the LinkedIn Generative AI Certificate
-- 🌱 Studying AI and learning by building projects
+- AI Student, currently in my 3rd semester
+- Working with Python
+- Hold the LinkedIn Generative AI Certificate
+- Studying AI and learning by building projects
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 Student Career Recommendation System
+### Student Career Recommendation System
 
 Lets students get career suggestions based on their skills.
 
@@ -39,11 +39,28 @@ Lets students get career suggestions based on their skills.
 | Language | Python |
 | Paradigm | Object-Oriented Programming (OOP) |
 
-🔗 [**Code**](https://github.com/sfaizyab2006/Student-Career-Recommendation-System)
+[Code](https://github.com/sfaizyab2006/Student-Career-Recommendation-System)
+
+### Smart Study Planner
+
+A smart study app that helps students track exam preparation progress, get priority-based ranking for topics, and see risk levels with the help of machine learning.
+
+<a href="https://github.com/sfaizyab2006/Smart-Study-Planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sfaizyab2006&repo=Smart-Study-Planner&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Smart-Study-Planner" />
+</a>
+
+| Layer | Technology |
+|-------|------------|
+| Language | Python |
+| Paradigm | Object-Oriented Programming (OOP) |
+| Machine Learning | Priority ranking and risk-level prediction |
+| Interface | Tkinter |
+
+[Code](https://github.com/sfaizyab2006/Smart-Study-Planner)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -51,9 +68,13 @@ Lets students get career suggestions based on their skills.
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />
 </p>
 
+**Other Tools**
+
+Object-Oriented Programming, Machine Learning, Tkinter
+
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faizyab-hussain-002a902b2/">
